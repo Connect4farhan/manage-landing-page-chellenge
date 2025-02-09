@@ -263,7 +263,7 @@ p {
     height: 45rem;
     z-index: -1;
     overflow: hidden;
-    /* border: .2rem solid rgb(17, 0, 255); */
+    border: .2rem solid rgb(17, 0, 255);
 }
 
 .bg2-image img {
@@ -327,7 +327,7 @@ p {
 }
 
 .btn-card {
-    margin: 1rem 28rem;
+    margin: 1rem auto;
 }
 
 .simplify {
@@ -367,7 +367,8 @@ p {
     padding: 1rem;
     text-align: center;
 }
-.footer {
+
+footer {
     width: 100%;
     height: 15rem;
     background-color: var(--clr-neutral-900);
