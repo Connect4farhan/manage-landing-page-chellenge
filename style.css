@@ -81,7 +81,7 @@ p {
 
 .bg-image {
     position: absolute;
-    right: -45px;
+    right: 0;
     top: 0;
     width: 35rem;
     height: 35rem;
